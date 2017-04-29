@@ -15,8 +15,8 @@
 /**
  * Time Restricted Shortcode
  *
- * @since      2.0
- * @author     Dave Clements
+ * @since      1.0
+ * @author     Qaiser ur rehman
  * @param      array  $atts Shortcode attributes.
  * @param      string $content The content contained between the shortcode.
  * @return     string The content to display
